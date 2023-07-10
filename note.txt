@@ -1,0 +1,5 @@
+#Ostad Platform - Next JS Course
+#Assigment Number - 05
+
+#Submited By - Akram Hossain
+#Netlify URL: https://assigment-05.netlify.app/
