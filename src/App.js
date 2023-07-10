@@ -6,11 +6,11 @@ import './styles.css'
 
 function App() {
   return (
-    <div>
+    <>
       <Header title="Assigment - 05" />
       <Content />
       <Footer />
-    </div>
+    </>
   );
 }
 

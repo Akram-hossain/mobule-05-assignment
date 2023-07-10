@@ -8,8 +8,8 @@ const Content = () => {
     setDisplayedText(text);
   };
 
-  const handleTextAreaChange = (event) => {
-    setText(event.target.value);
+  const handleTextAreaChange = (e) => {
+    setText(e.target.value);
   };
 
   return (
